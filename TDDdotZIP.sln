@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDdotZIP", "TDDdotZIP.csproj", "{829DDD9D-EAFC-4681-A20F-9F49AF957303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829DDD9D-EAFC-4681-A20F-9F49AF957303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829DDD9D-EAFC-4681-A20F-9F49AF957303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829DDD9D-EAFC-4681-A20F-9F49AF957303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829DDD9D-EAFC-4681-A20F-9F49AF957303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014598B9-B5A0-4DDF-9C5A-F29A7E349887}
+	EndGlobalSection
+EndGlobal
