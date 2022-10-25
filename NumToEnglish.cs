@@ -39,7 +39,7 @@ namespace TDDdotZIP
 				builder += tens[broken[i]] + "-";
 				i++;
 			}
-			int pos = broken[i];
+			int pos = int.Parse(broken[i].ToString());
 			builder += ones[pos];
 			return builder;
 		}
